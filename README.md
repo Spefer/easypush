@@ -1,3 +1,3 @@
-Document
+# easypush document
 =================
-[English](./README_en.md)
+Refer to English introduction [English](./README_en.md)
