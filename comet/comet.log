@@ -1,0 +1,497 @@
+2017/08/03 17:26:03 INFO main.go[38] : init log successful
+2017/08/03 17:26:03 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/03 17:26:04 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/03 17:26:04 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/03 17:26:04 INFO main.go[49] : init comet server successful
+2017/08/03 17:26:04 INFO main.go[56] : init  rpc  server successful
+2017/08/03 17:26:04 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:26:10 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=10) server websocket goroutine exit
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=7) server websocket goroutine exit
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=5) server websocket goroutine exit
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=4) server websocket goroutine exit
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=6) server websocket goroutine exit
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=2) server websocket goroutine exit
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=9) server websocket goroutine exit
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=1) server websocket goroutine exit
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=3) server websocket goroutine exit
+2017/08/03 17:27:05 DEBUG websocket.go[147] : userid: %!d(string=8) server websocket goroutine exit
+2017/08/03 19:48:08 INFO main.go[38] : init log successful
+2017/08/03 19:48:08 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/03 19:48:08 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/03 19:48:08 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/03 19:48:08 INFO main.go[49] : init comet server successful
+2017/08/03 19:48:08 INFO main.go[56] : init  rpc  server successful
+2017/08/03 19:48:08 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=5) server websocket goroutine exit
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=6) server websocket goroutine exit
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=10) server websocket goroutine exit
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=3) server websocket goroutine exit
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=7) server websocket goroutine exit
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=9) server websocket goroutine exit
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=4) server websocket goroutine exit
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=1) server websocket goroutine exit
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=8) server websocket goroutine exit
+2017/08/03 20:02:24 DEBUG websocket.go[147] : userid: %!d(string=2) server websocket goroutine exit
+2017/08/03 20:02:34 ERROR pushrpc.go[136] : pushRpc ping localhost:9001 failed : connection is shut down
+2017/08/03 20:02:34 ERROR adminrpc.go[185] : adminRpc ping localhost:7001 failed : connection is shut down
+2017/08/03 20:02:34 ERROR pushrpc.go[147] : pushRpc dial error : dial tcp [::1]:9001: getsockopt: connection refused
+2017/08/03 20:02:34 ERROR adminrpc.go[208] : adminRpc dial error : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/03 20:02:39 ERROR adminrpc.go[208] : adminRpc dial error : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/03 20:02:39 ERROR pushrpc.go[147] : pushRpc dial error : dial tcp [::1]:9001: getsockopt: connection refused
+2017/08/03 20:02:44 ERROR pushrpc.go[147] : pushRpc dial error : dial tcp [::1]:9001: getsockopt: connection refused
+2017/08/03 20:02:44 ERROR adminrpc.go[208] : adminRpc dial error : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/03 20:02:49 ERROR adminrpc.go[208] : adminRpc dial error : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/03 20:02:49 ERROR pushrpc.go[147] : pushRpc dial error : dial tcp [::1]:9001: getsockopt: connection refused
+2017/08/03 20:03:10 INFO main.go[38] : init log successful
+2017/08/03 20:03:11 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/03 20:03:11 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/03 20:03:11 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/03 20:03:11 INFO main.go[49] : init comet server successful
+2017/08/03 20:03:11 INFO main.go[56] : init  rpc  server successful
+2017/08/03 20:03:11 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=1) server websocket goroutine exit
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=9) server websocket goroutine exit
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=5) server websocket goroutine exit
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=7) server websocket goroutine exit
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=4) server websocket goroutine exit
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=6) server websocket goroutine exit
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=8) server websocket goroutine exit
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=3) server websocket goroutine exit
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=10) server websocket goroutine exit
+2017/08/03 22:32:54 DEBUG websocket.go[147] : userid: %!d(string=2) server websocket goroutine exit
+2017/08/04 11:41:58 INFO main.go[38] : init log successful
+2017/08/04 11:41:58 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 11:41:58 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 11:41:58 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 11:41:58 INFO main.go[49] : init comet server successful
+2017/08/04 11:41:58 INFO main.go[56] : init  rpc  server successful
+2017/08/04 11:41:58 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 11:43:55 INFO main.go[38] : init log successful
+2017/08/04 11:43:55 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 11:43:56 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 11:43:56 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 11:43:56 INFO main.go[49] : init comet server successful
+2017/08/04 11:43:56 INFO main.go[56] : init  rpc  server successful
+2017/08/04 11:43:56 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 11:45:26 INFO main.go[38] : init log successful
+2017/08/04 11:45:26 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 11:45:26 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 11:45:26 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 11:45:26 INFO main.go[49] : init comet server successful
+2017/08/04 11:45:26 INFO main.go[56] : init  rpc  server successful
+2017/08/04 11:45:26 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 12:21:57 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : json: cannot unmarshal array into Go value of type proto.SubREQ
+2017/08/04 12:21:57 ERROR websocket.go[106] : handshake failed : json: cannot unmarshal array into Go value of type proto.SubREQ
+2017/08/04 12:23:04 INFO main.go[38] : init log successful
+2017/08/04 12:23:04 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 12:23:04 FATAL adminrpc.go[149] : adminRpc.Dial(tcp@localhost:7001) failed : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/04 13:04:34 INFO main.go[38] : init log successful
+2017/08/04 13:04:34 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 13:04:35 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 13:04:35 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 13:04:35 INFO main.go[49] : init comet server successful
+2017/08/04 13:04:35 INFO main.go[56] : init  rpc  server successful
+2017/08/04 13:04:35 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 13:04:40 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 13:06:21 DEBUG websocket.go[217] : body:[123,34,117,115,101,114,105,100,34,58,34,49,50,34,44,32,34,116,111,107,101,110,34,58,34,49,50,34,44,32,34,116,111,112,105,99,115,34,58,91,49,93,125]
+2017/08/04 13:06:21 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : json: cannot unmarshal array into Go value of type proto.SubREQ
+2017/08/04 13:06:21 ERROR websocket.go[106] : handshake failed : json: cannot unmarshal array into Go value of type proto.SubREQ
+2017/08/04 13:07:55 DEBUG websocket.go[217] : body:[123,34,117,115,101,114,105,100,34,58,34,49,50,34,44,32,34,116,111,107,101,110,34,58,34,49,50,34,44,32,34,116,111,112,105,99,115,34,58,91,34,49,34,93,125]
+2017/08/04 13:07:55 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : json: cannot unmarshal array into Go value of type proto.SubREQ
+2017/08/04 13:07:55 ERROR websocket.go[106] : handshake failed : json: cannot unmarshal array into Go value of type proto.SubREQ
+2017/08/04 13:09:48 DEBUG websocket.go[217] : body:"{\"userid\":\"12\", \"token\":\"12\", \"topics\":[\"1\"]}"
+2017/08/04 13:09:48 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : json: cannot unmarshal string into Go value of type proto.SubREQ
+2017/08/04 13:09:48 ERROR websocket.go[106] : handshake failed : json: cannot unmarshal string into Go value of type proto.SubREQ
+2017/08/04 13:14:01 DEBUG websocket.go[217] : body:"{\"userid\":\"12\", \"token\":\"12\", \"topics\":[\"1\"]}"
+2017/08/04 13:14:01 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : json: cannot unmarshal string into Go value of type proto.SubREQ
+2017/08/04 13:14:01 ERROR websocket.go[106] : handshake failed : json: cannot unmarshal string into Go value of type proto.SubREQ
+2017/08/04 13:22:14 ERROR websocket.go[208] : error happen: EOF
+2017/08/04 13:22:14 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/04 13:22:14 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/04 13:22:31 DEBUG websocket.go[217] : body:{"server":0,"token":"12","topics":["1"],"userid":"12"}
+2017/08/04 13:25:22 DEBUG websocket.go[147] : userid: %!d(string=12) server websocket goroutine exit
+2017/08/04 13:25:39 DEBUG websocket.go[217] : body:{"server":0,"token":"12","topics":["1"],"userid":"12"}
+2017/08/04 13:27:14 DEBUG websocket.go[147] : userid: %!d(string=12) server websocket goroutine exit
+2017/08/04 13:27:37 DEBUG websocket.go[217] : body:{"server":0,"token":"12","topics":["1"],"userid":"12"}
+2017/08/04 15:10:05 INFO main.go[38] : init log successful
+2017/08/04 15:10:05 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 15:10:06 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 15:10:06 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 15:10:06 INFO main.go[49] : init comet server successful
+2017/08/04 15:10:06 INFO main.go[56] : init  rpc  server successful
+2017/08/04 15:10:06 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 15:10:14 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 15:10:32 DEBUG websocket.go[217] : body:{"server":0,"token":"12","topics":["1"],"userid":"12"}
+2017/08/04 15:21:55 DEBUG websocket.go[147] : userid: 12 server websocket goroutine exit
+2017/08/04 15:44:42 DEBUG websocket.go[217] : body:{"server":0,"token":"12","topics":["1"],"userid":"12"}
+2017/08/04 16:01:22 DEBUG websocket.go[147] : userid: 12 server websocket goroutine exit
+2017/08/04 16:18:14 DEBUG websocket.go[217] : body:{"server":0,"token":"12","topics":["1"],"userid":"12"}
+2017/08/04 16:22:34 DEBUG websocket.go[147] : userid: 12 server websocket goroutine exit
+2017/08/04 16:30:58 DEBUG websocket.go[217] : body:{"server":0,"token":"12","topics":["1"],"userid":"12"}
+2017/08/04 16:32:09 DEBUG websocket.go[147] : userid: 12 server websocket goroutine exit
+2017/08/04 17:03:34 ERROR adminrpc.go[185] : adminRpc ping localhost:7001 failed : connection is shut down
+2017/08/04 17:03:34 ERROR adminrpc.go[208] : adminRpc dial error : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/04 17:03:52 INFO main.go[38] : init log successful
+2017/08/04 17:03:52 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:03:52 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:03:52 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:03:52 INFO main.go[49] : init comet server successful
+2017/08/04 17:03:52 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:03:52 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 17:03:56 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 17:06:58 DEBUG websocket.go[217] : body:{"server":0,"token":"12","topics":["1"],"userid":"12"}
+2017/08/04 17:10:43 INFO main.go[38] : init log successful
+2017/08/04 17:10:43 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:10:43 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:10:43 ERROR pushrpc.go[102] : pushRpc.Dial(tcp@localhost:9001) failed : dial tcp [::1]:9001: getsockopt: connection refused
+2017/08/04 17:10:43 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:10:43 ERROR pushrpc.go[31] : init push rpc failed : dial tcp [::1]:9001: getsockopt: connection refused
+2017/08/04 17:10:52 INFO main.go[38] : init log successful
+2017/08/04 17:10:52 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:10:52 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:10:52 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:10:52 INFO main.go[49] : init comet server successful
+2017/08/04 17:10:52 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:10:52 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:10:57 DEBUG websocket.go[217] : body:{"server":0,"token":"5","topics":["1"],"userid":"5"}
+2017/08/04 17:12:46 INFO main.go[38] : init log successful
+2017/08/04 17:12:47 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:12:47 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:12:47 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:12:47 INFO main.go[49] : init comet server successful
+2017/08/04 17:12:47 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:12:47 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:12:55 DEBUG websocket.go[217] : body:{"server":0,"token":"12","topics":["1"],"userid":"12"}
+2017/08/04 17:21:56 DEBUG websocket.go[147] : userid: 12 server websocket goroutine exit
+2017/08/04 17:22:12 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/04 17:23:19 INFO main.go[38] : init log successful
+2017/08/04 17:23:19 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:23:19 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:23:19 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:23:19 INFO main.go[49] : init comet server successful
+2017/08/04 17:23:19 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:23:19 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 17:23:25 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 17:23:34 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/04 17:25:49 ERROR adminrpc.go[185] : adminRpc ping localhost:7001 failed : connection is shut down
+2017/08/04 17:25:49 ERROR adminrpc.go[208] : adminRpc dial error : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/04 17:28:33 INFO main.go[38] : init log successful
+2017/08/04 17:28:33 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:28:33 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:28:33 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:28:33 INFO main.go[49] : init comet server successful
+2017/08/04 17:28:33 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:28:33 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 17:28:35 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 17:28:52 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/04 17:33:08 INFO main.go[38] : init log successful
+2017/08/04 17:33:08 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:33:08 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:33:08 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:33:08 INFO main.go[49] : init comet server successful
+2017/08/04 17:33:08 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:33:08 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 17:33:10 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 17:33:22 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/04 17:38:58 ERROR pushrpc.go[136] : pushRpc ping localhost:9001 failed : connection is shut down
+2017/08/04 17:38:58 ERROR adminrpc.go[185] : adminRpc ping localhost:7001 failed : connection is shut down
+2017/08/04 17:38:58 ERROR pushrpc.go[147] : pushRpc dial error : dial tcp [::1]:9001: getsockopt: connection refused
+2017/08/04 17:38:58 ERROR adminrpc.go[208] : adminRpc dial error : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/04 17:40:03 INFO main.go[38] : init log successful
+2017/08/04 17:40:03 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:40:03 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:40:03 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:40:03 INFO main.go[49] : init comet server successful
+2017/08/04 17:40:03 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:40:03 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:40:13 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/04 17:40:48 ERROR adminrpc.go[185] : adminRpc ping localhost:7001 failed : connection is shut down
+2017/08/04 17:40:48 ERROR adminrpc.go[208] : adminRpc dial error : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/04 17:40:53 ERROR pushrpc.go[136] : pushRpc ping localhost:9001 failed : connection is shut down
+2017/08/04 17:40:53 ERROR adminrpc.go[208] : adminRpc dial error : dial tcp [::1]:7001: getsockopt: connection refused
+2017/08/04 17:40:53 ERROR pushrpc.go[147] : pushRpc dial error : dial tcp [::1]:9001: getsockopt: connection refused
+2017/08/04 17:41:13 INFO main.go[38] : init log successful
+2017/08/04 17:41:13 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:41:13 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:41:13 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:41:13 INFO main.go[49] : init comet server successful
+2017/08/04 17:41:13 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:41:13 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 17:41:21 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 17:41:29 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/04 17:44:41 INFO main.go[38] : init log successful
+2017/08/04 17:44:41 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:44:41 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:44:41 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:44:41 INFO main.go[49] : init comet server successful
+2017/08/04 17:44:41 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:44:41 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 17:44:45 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 17:47:28 INFO main.go[38] : init log successful
+2017/08/04 17:47:28 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 17:47:28 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 17:47:28 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 17:47:28 INFO main.go[49] : init comet server successful
+2017/08/04 17:47:28 INFO main.go[56] : init  rpc  server successful
+2017/08/04 17:47:28 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 17:47:34 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 17:47:39 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 7 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 8 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 1 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 3 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 4 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 6 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 9 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 2 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 5 server websocket goroutine exit
+2017/08/04 18:44:00 DEBUG websocket.go[147] : userid: 10 server websocket goroutine exit
+2017/08/04 20:57:00 INFO main.go[38] : init log successful
+2017/08/04 20:57:00 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/04 20:57:01 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/04 20:57:01 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/04 20:57:01 INFO main.go[49] : init comet server successful
+2017/08/04 20:57:01 INFO main.go[56] : init  rpc  server successful
+2017/08/04 20:57:01 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/04 20:57:04 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/04 20:57:13 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/04 20:58:25 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 4 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 6 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 7 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 3 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 1 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 10 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 9 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 5 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 2 server websocket goroutine exit
+2017/08/04 22:01:14 DEBUG websocket.go[147] : userid: 8 server websocket goroutine exit
+2017/08/05 09:19:51 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 09:21:07 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/05 09:32:28 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 09:49:08 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/05 14:47:19 ERROR websocket.go[208] : error happen: EOF
+2017/08/05 14:47:19 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/05 14:47:19 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/05 14:47:58 ERROR websocket.go[208] : error happen: EOF
+2017/08/05 14:47:58 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : EOF
+2017/08/05 14:47:58 ERROR websocket.go[106] : handshake failed : EOF
+2017/08/05 14:48:21 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 14:49:46 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/05 14:49:52 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 14:49:57 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/05 14:50:09 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 14:56:20 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/05 15:50:29 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 15:51:25 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/05 15:58:28 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 15:58:51 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/05 15:59:10 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 15:59:21 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/05 16:00:51 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : request operation is invalid
+2017/08/05 16:00:51 ERROR websocket.go[106] : handshake failed : request operation is invalid
+2017/08/05 16:01:06 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : request operation is invalid
+2017/08/05 16:01:06 ERROR websocket.go[106] : handshake failed : request operation is invalid
+2017/08/05 16:01:42 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : request operation is invalid
+2017/08/05 16:01:42 ERROR websocket.go[106] : handshake failed : request operation is invalid
+2017/08/05 16:02:25 INFO main.go[38] : init log successful
+2017/08/05 16:02:25 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/05 16:02:26 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/05 16:02:26 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/05 16:02:26 INFO main.go[49] : init comet server successful
+2017/08/05 16:02:26 INFO main.go[56] : init  rpc  server successful
+2017/08/05 16:02:26 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/05 16:02:33 DEBUG websocket.go[217] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 16:02:50 DEBUG websocket.go[147] : userid: 13579 server websocket goroutine exit
+2017/08/05 20:23:53 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : request operation is invalid
+2017/08/05 20:23:53 ERROR websocket.go[106] : handshake failed : request operation is invalid
+2017/08/05 20:24:15 INFO main.go[38] : init log successful
+2017/08/05 20:24:15 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/05 20:24:15 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/05 20:24:15 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/05 20:24:15 INFO main.go[49] : init comet server successful
+2017/08/05 20:24:15 INFO main.go[56] : init  rpc  server successful
+2017/08/05 20:24:15 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/05 20:24:29 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : request operation is invalid
+2017/08/05 20:24:29 ERROR websocket.go[106] : handshake failed : request operation is invalid
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/05 20:25:23 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/05 20:59:51 INFO main.go[38] : init log successful
+2017/08/05 20:59:51 INFO websocket.go[35] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/05 20:59:51 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/05 20:59:51 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/05 20:59:51 INFO main.go[49] : init comet server successful
+2017/08/05 20:59:51 INFO main.go[56] : init  rpc  server successful
+2017/08/05 20:59:51 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/05 20:59:56 DEBUG websocket.go[217] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/05 21:08:10 ERROR websocket.go[101] : wsSubscribe failed user(%!d(string=)) failed : request operation is invalid
+2017/08/05 21:08:10 ERROR websocket.go[106] : handshake failed : request operation is invalid
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 1 server websocket goroutine exit
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 7 server websocket goroutine exit
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 2 server websocket goroutine exit
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 5 server websocket goroutine exit
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 10 server websocket goroutine exit
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 3 server websocket goroutine exit
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 4 server websocket goroutine exit
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 6 server websocket goroutine exit
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 8 server websocket goroutine exit
+2017/08/05 21:09:47 DEBUG websocket.go[147] : userid: 9 server websocket goroutine exit
+2017/08/05 21:15:30 INFO main.go[38] : init log successful
+2017/08/05 21:15:30 INFO websocket.go[37] : comet server start websocket listen: 0.0.0.0:8101
+2017/08/05 21:15:30 INFO adminrpc.go[154] : Init admin Rpc (tcp@localhost:7001) sub successfuls
+2017/08/05 21:15:30 INFO pushrpc.go[107] : Init push Rpc (tcp@localhost:9001) sub successfuls
+2017/08/05 21:15:30 INFO main.go[49] : init comet server successful
+2017/08/05 21:15:30 INFO main.go[56] : init  rpc  server successful
+2017/08/05 21:15:30 INFO rpc.go[40] : Rpc listen(tcp@localhost:8201) successful
+2017/08/05 21:15:45 ERROR websocket.go[103] : wsSubscribe failed user() failed : request operation is invalid, expect(5), but actual is 4
+2017/08/05 21:15:45 ERROR websocket.go[108] : handshake failed : request operation is invalid, expect(5), but actual is 4
+2017/08/05 21:19:52 DEBUG websocket.go[219] : body:{"server":0,"token":"13579","topics":["1"],"userid":"13579"}
+2017/08/05 21:20:42 DEBUG websocket.go[149] : userid: 13579 server websocket goroutine exit
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"5","token":"5","topics":["1","2","3"]}
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"6","token":"6","topics":["1","2","3"]}
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"10","token":"10","topics":["1","2","3"]}
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"1","token":"1","topics":["1","2","3"]}
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"8","token":"8","topics":["1","2","3"]}
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"9","token":"9","topics":["1","2","3"]}
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"4","token":"4","topics":["1","2","3"]}
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"7","token":"7","topics":["1","2","3"]}
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"2","token":"2","topics":["1","2","3"]}
+2017/08/06 13:08:56 DEBUG websocket.go[219] : body:{"userid":"3","token":"3","topics":["1","2","3"]}
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 10 server websocket goroutine exit
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 6 server websocket goroutine exit
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 9 server websocket goroutine exit
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 1 server websocket goroutine exit
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 5 server websocket goroutine exit
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 4 server websocket goroutine exit
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 7 server websocket goroutine exit
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 3 server websocket goroutine exit
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 2 server websocket goroutine exit
+2017/08/06 18:57:54 DEBUG websocket.go[149] : userid: 8 server websocket goroutine exit

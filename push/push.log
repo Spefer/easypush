@@ -1,0 +1,389 @@
+2017/08/01 14:23:59 INFO main.go[33] : init log successful
+2017/08/01 14:23:59 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 14:23:59 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 14:23:59 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 14:23:59 ERROR main.go[44] : init mq failed : unknow message queue!
+2017/08/01 14:24:47 INFO main.go[33] : init log successful
+2017/08/01 14:24:47 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 14:24:47 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 14:24:47 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 14:24:47 ERROR main.go[44] : init mq failed : unknow message queue!
+2017/08/01 14:25:38 INFO main.go[33] : init log successful
+2017/08/01 14:25:38 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 14:25:38 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 14:25:38 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 14:25:38 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/01 14:41:05 INFO main.go[33] : init log successful
+2017/08/01 14:41:05 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 14:41:05 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 14:41:05 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 14:41:10 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/01 14:42:01 INFO main.go[33] : init log successful
+2017/08/01 14:42:01 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 14:42:01 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 14:42:01 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 14:43:11 INFO main.go[33] : init log successful
+2017/08/01 14:43:11 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 14:43:11 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 14:43:11 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 14:43:11 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/01 14:43:11 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/01 14:43:11 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/01 14:43:11 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/01 14:43:11 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/01 14:46:46 DEBUG internal_mq.go[15] : received:
+2017/08/01 14:46:46 ERROR comet.go[150] : json.Unmarshal("yyy") error(json: cannot unmarshal string into Go value of type proto.MQMsg)
+2017/08/01 14:55:47 ERROR comet.go[122] : rpc ping 127.0.0.1:8201 error(connection is shut down)
+2017/08/01 14:56:00 INFO main.go[33] : init log successful
+2017/08/01 14:56:00 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 14:56:00 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 14:56:00 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 14:56:00 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/01 14:56:00 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/01 14:56:00 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/01 14:56:00 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/01 14:56:00 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/01 14:56:15 DEBUG internal_mq.go[15] : received:
+2017/08/01 14:56:15 ERROR comet.go[150] : json.Unmarshal("yyy") error(json: cannot unmarshal string into Go value of type proto.MQMsg)
+2017/08/01 15:38:34 INFO main.go[33] : init log successful
+2017/08/01 15:38:34 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 15:38:34 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 15:38:34 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 15:38:34 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/01 15:38:34 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/01 15:38:34 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/01 15:38:34 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/01 15:38:34 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/01 15:39:37 INFO main.go[33] : init log successful
+2017/08/01 15:39:37 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 15:39:37 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 15:39:37 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 15:39:37 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/01 15:39:37 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/01 15:39:37 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/01 15:39:37 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/01 15:39:37 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/01 15:41:25 DEBUG internal_mq.go[15] : received:
+2017/08/01 15:41:25 ERROR comet.go[150] : json.Unmarshal("yyy") error(json: cannot unmarshal string into Go value of type proto.MQMsg)
+2017/08/01 22:03:54 INFO main.go[33] : init log successful
+2017/08/01 22:03:54 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 22:03:54 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 22:03:54 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 22:03:54 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/01 22:03:54 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/01 22:03:54 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/01 22:03:54 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/01 22:03:54 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/01 22:04:24 DEBUG internal_mq.go[15] : received:
+2017/08/01 22:04:24 ERROR comet.go[150] : json.Unmarshal("yyy") error(json: cannot unmarshal string into Go value of type proto.MQMsg)
+2017/08/01 22:05:52 INFO main.go[33] : init log successful
+2017/08/01 22:05:52 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/01 22:05:52 INFO comet.go[63] : comet rpc first dial...
+2017/08/01 22:05:52 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/01 22:05:52 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/01 22:05:52 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/01 22:05:52 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/01 22:05:52 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/01 22:05:52 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/01 22:06:08 DEBUG internal_mq.go[15] : received:
+2017/08/01 22:06:08 ERROR comet.go[150] : json.Unmarshal("yyy") error(json: cannot unmarshal string into Go value of type proto.MQMsg)
+2017/08/02 11:07:31 INFO main.go[33] : init log successful
+2017/08/02 11:07:31 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/02 11:07:31 INFO comet.go[63] : comet rpc first dial...
+2017/08/02 11:07:31 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/02 11:07:31 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/02 11:07:31 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/02 11:07:31 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/02 11:07:31 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/02 11:07:31 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/02 11:07:53 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:07:53 ERROR comet.go[150] : json.Unmarshal("yyy") error(json: cannot unmarshal string into Go value of type proto.MQMsg)
+2017/08/02 11:10:17 INFO main.go[33] : init log successful
+2017/08/02 11:10:17 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/02 11:10:17 INFO comet.go[63] : comet rpc first dial...
+2017/08/02 11:10:17 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/02 11:10:17 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/02 11:10:17 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/02 11:10:17 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/02 11:10:17 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/02 11:10:17 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/02 11:10:18 INFO main.go[33] : init log successful
+2017/08/02 11:10:18 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/02 11:10:18 INFO comet.go[63] : comet rpc first dial...
+2017/08/02 11:10:18 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/02 11:10:18 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/02 11:10:18 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/02 11:10:18 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/02 11:10:18 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/02 11:10:18 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/02 11:11:55 INFO main.go[33] : init log successful
+2017/08/02 11:11:55 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/02 11:11:55 INFO comet.go[63] : comet rpc first dial...
+2017/08/02 11:11:55 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/02 11:11:55 INFO internal_mq.go[32] : start message queue successful
+
+2017/08/02 11:11:55 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/02 11:11:55 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/02 11:11:55 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/02 11:11:55 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/02 11:12:06 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:12:06 ERROR comet.go[150] : json.Unmarshal("yyy") error(json: cannot unmarshal string into Go value of type proto.MQMsg)
+2017/08/02 11:13:57 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:13:57 ERROR comet.go[150] : json.Unmarshal("yyy") error(json: cannot unmarshal string into Go value of type proto.MQMsg)
+2017/08/02 11:24:19 INFO main.go[33] : init log successful
+2017/08/02 11:24:19 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/02 11:24:19 INFO comet.go[63] : comet rpc first dial...
+2017/08/02 11:24:19 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/02 11:24:19 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/02 11:24:19 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/02 11:24:19 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/02 11:24:19 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/02 11:24:19 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/02 11:24:31 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:24:44 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:24:54 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:24:58 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:25:47 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:26:42 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:26:45 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:30:35 DEBUG internal_mq.go[15] : received:
+2017/08/02 11:31:37 DEBUG internal_mq.go[15] : received:
+2017/08/03 17:25:55 INFO main.go[33] : init log successful
+2017/08/03 17:25:55 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/03 17:25:55 INFO comet.go[63] : comet rpc first dial...
+2017/08/03 17:25:55 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/03 17:25:55 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/03 17:25:55 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/03 17:25:55 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/03 17:25:55 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/03 17:25:55 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/03 17:26:51 DEBUG internal_mq.go[15] : received:
+2017/08/03 17:26:59 DEBUG internal_mq.go[15] : received:
+2017/08/03 19:48:04 INFO main.go[33] : init log successful
+2017/08/03 19:48:04 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/03 19:48:04 INFO comet.go[63] : comet rpc first dial...
+2017/08/03 19:48:04 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/03 19:48:04 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/03 19:48:04 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/03 19:48:04 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/03 19:48:04 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/03 19:48:04 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/03 19:48:15 DEBUG internal_mq.go[15] : received:
+2017/08/03 19:48:52 DEBUG internal_mq.go[15] : received:
+2017/08/03 19:49:05 DEBUG internal_mq.go[15] : received:
+2017/08/03 19:55:55 DEBUG internal_mq.go[15] : received:
+2017/08/03 19:56:11 DEBUG internal_mq.go[15] : received:
+2017/08/03 20:03:08 INFO main.go[33] : init log successful
+2017/08/03 20:03:08 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/03 20:03:08 INFO comet.go[63] : comet rpc first dial...
+2017/08/03 20:03:08 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/03 20:03:08 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/03 20:03:08 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/03 20:03:08 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/03 20:03:08 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/03 20:03:08 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 11:25:11 ERROR comet.go[122] : rpc ping 127.0.0.1:8201 error(connection is shut down)
+2017/08/04 11:43:46 INFO main.go[33] : init log successful
+2017/08/04 11:43:46 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 11:43:46 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 11:43:46 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 11:43:46 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 11:43:46 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 11:43:46 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 11:43:46 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 11:43:46 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 11:45:21 ERROR comet.go[122] : rpc ping 127.0.0.1:8201 error(unexpected EOF)
+2017/08/04 11:45:26 ERROR comet.go[122] : rpc ping 127.0.0.1:8201 error(connection is shut down)
+2017/08/04 12:22:48 ERROR comet.go[122] : rpc ping 127.0.0.1:8201 error(connection is shut down)
+2017/08/04 13:04:26 INFO main.go[33] : init log successful
+2017/08/04 13:04:26 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 13:04:26 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 13:04:26 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 13:04:26 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 13:04:26 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 13:04:26 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 13:04:26 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 13:04:26 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 15:10:01 INFO main.go[33] : init log successful
+2017/08/04 15:10:01 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 15:10:01 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 15:10:01 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 15:10:01 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 15:10:01 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 15:10:01 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 15:10:01 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 15:10:01 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:03:49 INFO main.go[33] : init log successful
+2017/08/04 17:03:49 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:03:49 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:03:49 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:03:49 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:03:49 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:03:49 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:03:49 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:03:49 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:10:48 INFO main.go[33] : init log successful
+2017/08/04 17:10:48 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:10:48 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:10:48 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:10:48 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:10:48 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:10:48 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:10:48 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:10:48 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:12:03 ERROR comet.go[122] : rpc ping 127.0.0.1:8201 error(connection is shut down)
+2017/08/04 17:12:42 INFO main.go[33] : init log successful
+2017/08/04 17:12:42 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:12:42 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:12:42 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:12:42 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:12:42 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:12:42 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:12:42 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:12:42 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:23:15 INFO main.go[33] : init log successful
+2017/08/04 17:23:15 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:23:15 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:23:15 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:23:15 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:23:15 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:23:15 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:23:15 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:23:15 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:28:25 INFO main.go[33] : init log successful
+2017/08/04 17:28:25 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:28:25 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:28:25 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:28:25 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:28:25 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:28:25 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:28:25 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:28:25 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:28:35 ERROR comet.go[203] : getCometByServerId(1) failed : <nil>
+2017/08/04 17:28:35 ERROR comet.go[203] : getCometByServerId(1) failed : <nil>
+2017/08/04 17:28:35 ERROR comet.go[203] : getCometByServerId(1) failed : <nil>
+2017/08/04 17:33:02 INFO main.go[33] : init log successful
+2017/08/04 17:33:02 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:33:02 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:33:02 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:33:02 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:33:02 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:33:02 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:33:02 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:33:02 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:33:10 ERROR comet.go[203] : getCometByServerId(1) failed : <nil>
+2017/08/04 17:33:10 ERROR comet.go[203] : getCometByServerId(1) failed : <nil>
+2017/08/04 17:33:10 ERROR comet.go[203] : getCometByServerId(1) failed : <nil>
+2017/08/04 17:33:10 ERROR comet.go[203] : getCometByServerId(1) failed : <nil>
+2017/08/04 17:39:23 INFO main.go[33] : init log successful
+2017/08/04 17:39:23 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:39:23 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:39:23 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:39:23 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:39:23 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:39:23 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:39:23 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:39:23 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:41:07 INFO main.go[33] : init log successful
+2017/08/04 17:41:07 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:41:07 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:41:07 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:41:07 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:41:07 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:41:07 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:41:07 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:41:07 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:44:38 INFO main.go[33] : init log successful
+2017/08/04 17:44:38 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:44:38 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:44:38 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:44:38 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:44:38 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:44:38 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:44:38 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:44:38 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 17:47:22 INFO main.go[33] : init log successful
+2017/08/04 17:47:22 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 17:47:22 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 17:47:22 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 17:47:22 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 17:47:22 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 17:47:22 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 17:47:22 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 17:47:22 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/04 20:56:56 INFO main.go[33] : init log successful
+2017/08/04 20:56:56 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/04 20:56:56 INFO comet.go[63] : comet rpc first dial...
+2017/08/04 20:56:56 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/04 20:56:56 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/04 20:56:56 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/04 20:56:56 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/04 20:56:56 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/04 20:56:56 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/05 16:02:23 INFO main.go[33] : init log successful
+2017/08/05 16:02:23 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/05 16:02:23 INFO comet.go[63] : comet rpc first dial...
+2017/08/05 16:02:23 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/05 16:02:23 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/05 16:02:23 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/05 16:02:23 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/05 16:02:23 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/05 16:02:23 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/05 20:24:11 INFO main.go[33] : init log successful
+2017/08/05 20:24:11 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/05 20:24:11 INFO comet.go[63] : comet rpc first dial...
+2017/08/05 20:24:11 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/05 20:24:11 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/05 20:24:11 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/05 20:24:11 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/05 20:24:11 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/05 20:24:11 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/05 20:59:44 INFO main.go[33] : init log successful
+2017/08/05 20:59:44 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/05 20:59:44 INFO comet.go[63] : comet rpc first dial...
+2017/08/05 20:59:44 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/05 20:59:44 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/05 20:59:44 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/05 20:59:44 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/05 20:59:44 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/05 20:59:44 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
+2017/08/05 21:15:25 INFO main.go[33] : init log successful
+2017/08/05 21:15:25 INFO comet.go[59] : dial comet rpc (tcp@127.0.0.1:8201)......
+2017/08/05 21:15:25 INFO comet.go[63] : comet rpc first dial...
+2017/08/05 21:15:25 INFO comet.go[68] : connect to comet [tcp@127.0.0.1:8201] successful.
+2017/08/05 21:15:25 INFO internal_mq.go[33] : start message queue successful
+
+2017/08/05 21:15:25 INFO storage.go[50] : RedisStorage.initRedis
+2017/08/05 21:15:25 INFO rpc.go[39] : Rpc listen(tcp@127.0.0.1:4150) successful
+2017/08/05 21:15:25 INFO storage.go[59] : RedisStorage.initRedis node succesful (redis1@127.0.0.1:6379)
+2017/08/05 21:15:25 INFO rpc.go[39] : Rpc listen(tcp@localhost:9001) successful
